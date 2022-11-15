@@ -382,7 +382,7 @@ nav .fa-solid{
     }
     
     lottie-player {
-        margin-bottom: 20px;
+        margin-bottom: 100px;
     }
     .header-text p {
         margin-top: 10px;
@@ -412,7 +412,7 @@ a:link {
   a:hover {
     color: #ff004f;
     background-color: transparent;
-    text-decoration: underline;
+    /* text-decoration: underline; */
   }
   
   a:active {
