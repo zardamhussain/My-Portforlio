@@ -30,7 +30,7 @@ nav{
 }
 .logo{
     width: 200px;
-    margin-top: -25px;
+    margin-top: 10px;
 }
 
 nav ul li{
@@ -87,6 +87,7 @@ nav ul li a:hover::after{
     flex-basis: 35%;
 }
 .about-col-1 img{
+    padding-top: 25px;
     width: 100%;
     border-radius: 15px;
 }
@@ -379,9 +380,7 @@ nav .fa-solid{
         flex-basis: 100%;
 
     }
-    .header-text p {
-        
-    }
+    
 }
 #msg{
     color: #ff004f;
