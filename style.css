@@ -382,10 +382,15 @@ nav .fa-solid{
     }
     
     lottie-player {
-        margin-bottom: 100px;
+        margin-bottom: 200px;
     }
     .header-text p {
         margin-top: 10px;
+    } 
+    .header-text p{
+        font-family: sans-serif;
+        font-family: 'Roborto', sans-serif !important;
+        font-weight: 700;
     } 
 }
 #msg{
