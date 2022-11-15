@@ -381,6 +381,12 @@ nav .fa-solid{
 
     }
     
+    lottie-player {
+        margin-bottom: 20px;
+    }
+    .header-text p {
+        margin-top: 10px;
+    } 
 }
 #msg{
     color: #ff004f;
@@ -455,3 +461,8 @@ a:link {
         background-position: 200% center;
       }
   }
+  .header-text p{
+    font-family: sans-serif;
+    font-family: 'Roborto', sans-serif !important;
+    font-weight: 700;
+} 
